@@ -1,0 +1,113 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\miniconda3\\pkgs\\word2number-1.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/word2number-1.1.dist-info/INSTALLER",
+    "Lib/site-packages/word2number-1.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/word2number-1.1.dist-info/METADATA",
+    "Lib/site-packages/word2number-1.1.dist-info/RECORD",
+    "Lib/site-packages/word2number-1.1.dist-info/WHEEL",
+    "Lib/site-packages/word2number-1.1.dist-info/top_level.txt",
+    "Lib/site-packages/word2number/__init__.py",
+    "Lib/site-packages/word2number/w2n.py",
+    ".nonadmin",
+    "Lib/site-packages/word2number/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/word2number/__pycache__/w2n.cpython-39.pyc"
+  ],
+  "fn": "word2number-1.1-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\USER\\miniconda3\\pkgs\\word2number-1.1-py_0",
+    "type": 1
+  },
+  "md5": "bb87aad823364271edbe47d3972c3888",
+  "name": "word2number",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\USER\\miniconda3\\pkgs\\word2number-1.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "594e5ea84a7698491a37809fa91e97a84e23df2f6807b5cadcf34232f9480f5c",
+        "sha256_in_prefix": "594e5ea84a7698491a37809fa91e97a84e23df2f6807b5cadcf34232f9480f5c",
+        "size_in_bytes": 1135
+      },
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5e905dcc18e4c7c58bb1e16e60d6ee45366bc707a0ac4ff8bf96a549dd0ee6d8",
+        "sha256_in_prefix": "5e905dcc18e4c7c58bb1e16e60d6ee45366bc707a0ac4ff8bf96a549dd0ee6d8",
+        "size_in_bytes": 4909
+      },
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "83155e8ef13fd889bc327d7640335c0fd89dc5e61bc395f81c2ef8060005d83a",
+        "sha256_in_prefix": "83155e8ef13fd889bc327d7640335c0fd89dc5e61bc395f81c2ef8060005d83a",
+        "size_in_bytes": 700
+      },
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c32e88d119177f5487408f5680c18c66d92b3ea73e738f545ab4c7d7f9ca1674",
+        "sha256_in_prefix": "c32e88d119177f5487408f5680c18c66d92b3ea73e738f545ab4c7d7f9ca1674",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/word2number-1.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "44879a3dd52ca4f7761f006d5eb54978229c46a6e0928df4b78f9329bd065139",
+        "sha256_in_prefix": "44879a3dd52ca4f7761f006d5eb54978229c46a6e0928df4b78f9329bd065139",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/word2number/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/word2number/w2n.py",
+        "path_type": "hardlink",
+        "sha256": "2511c36ec0b70db243925988fad0c0dc4475f845b25659209bb26cf7f36b418a",
+        "sha256_in_prefix": "2511c36ec0b70db243925988fad0c0dc4475f845b25659209bb26cf7f36b418a",
+        "size_in_bytes": 7248
+      },
+      {
+        "_path": "Lib/site-packages/word2number/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/word2number/__pycache__/w2n.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "word2number",
+  "sha256": "7a58d54af6cc991e660578789147ce2e1ac11db78564fd666cde3bc0953bab3c",
+  "size": 7975,
+  "subdir": "noarch",
+  "timestamp": 1556811118320,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/word2number-1.1-py_0.tar.bz2",
+  "version": "1.1"
+}
